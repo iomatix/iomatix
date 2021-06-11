@@ -1,4 +1,4 @@
-# iomatix - Welcome! 🐉
+# Welcome to iomatix github! 🐉
 
  👋 Hello there, I’m @iomatix
  
