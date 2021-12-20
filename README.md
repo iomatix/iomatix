@@ -4,7 +4,7 @@
  
  👀 I’m interested in most programming, music creation, game designing, world, and plot creation.
  
- ⭕ I’m currently learning Unity.
+ ⭕ I’m currently working with Big Data.
  
  💞️ I’m looking to collaborate on modding or game development.
  
