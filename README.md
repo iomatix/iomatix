@@ -2,12 +2,12 @@
 
  👋 Hello there, I’m @iomatix
  
- 👀 I’m interested in most programming, music creation, game designing, world, and plot creation.
+ 👀 I’m interested in most programming, music creation, procedural modeling, game designing, world, and plot creation.
  
- ⭕ I’m currently working with Big Data.
+ ⭕ I’m currently busy with master dissertation defense.
  
- 💞️ I’m looking to collaborate on modding or game development.
+ 💞️ I’m looking to collaborate on game development or engaging modding projects.
  
- ✔️ My favorite technology is Unreal Engine.
+ ✔️ My favorite game engine is Unreal Engine.
  
- 📫 I study computer science nowadays.
+ 📫 I'm in the final stages of earning my master's degree at a university of technology..
