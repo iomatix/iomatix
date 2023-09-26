@@ -10,4 +10,4 @@
  
  ✔️ My favorite game engine is Unreal Engine.
  
- 📫 I'm in the final stages of earning my master's degree at a university of technology..
+ 📫 I'm in the final stages of earning my master's degree at a university of technology.
