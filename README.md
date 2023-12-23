@@ -1,4 +1,4 @@
-# [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E7SI4QE) Welcome to my github! 🐉
+# Welcome to my github! 🐉 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E7SI4QE)
 
 
  👋 Hello there, I’m @iomatix
