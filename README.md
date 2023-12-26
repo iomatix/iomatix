@@ -22,9 +22,7 @@
 📫 I hold a master's degree from a university of technology.
      
      </td>
-    <td><p align="center" width="100%">
-    <img width="50%" src="https://avatars.githubusercontent.com/u/13110161?v=4?s=400"> 
-</p></td>
+    <td><p align="center" width="100%"><img width="50%" src="https://avatars.githubusercontent.com/u/13110161?v=4?s=400"></p></td>
  </tr>
 </table>
 
