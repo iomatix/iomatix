@@ -29,10 +29,5 @@
 
 <br>
 
-### Recent Activity
-![Recent Activity](https://github-readme-stats.vercel.app/api/activity?username=iomatix)
-
-<br>
-
 ### Trophies
 ![iomatix's Trophies](https://github-profile-trophy.vercel.app/?username=iomatix&theme=tokyonight)
