@@ -25,7 +25,7 @@
 
 <br>
 ### Stats
-<img src="https://myreadme.vercel.app/api/embed/iomatix?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" width="200"/>
+<img src="https://myreadme.vercel.app/api/embed/iomatix?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" width="20%"/>
 
 
 <br>
