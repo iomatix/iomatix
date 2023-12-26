@@ -1,5 +1,5 @@
 # 🐉 Welcome to my github! [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/iomatix)
-<img src="https://komarev.com/ghpvc/?username=iomatix&label=Profile%20views&color=0e75b6&style=flat" alt="iomatix" /> <a href="https://www.linkedin.com/in/wypchlak-mateusz/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://dev.to/iomatix" target="_blank"> <img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"> </a>
+<div style="float: right;"><img src="https://komarev.com/ghpvc/?username=iomatix&label=Profile%20views&color=0e75b6&style=flat" alt="iomatix" /> <a href="https://www.linkedin.com/in/wypchlak-mateusz/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://dev.to/iomatix" target="_blank"> <img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"> </a></div>
 
 <table>
   <tr>
