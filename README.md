@@ -3,15 +3,7 @@
 
 ## 👋 Hello there, I’m @iomatix
 
-| 👀 I'm interested in programming, music creation, procedural modeling, game design, world creation, and plot development.
- 
-⭕ I’m currently with developing TTRPG project and collaborating in game-dev community.
- 
-💞️ I’m looking to collaborate on game development or engaging modding projects.
- 
-✔️ My game engine of choice is the Unreal Engine.
- 
-📫 I hold a master's degree from a university of technology. | ![iomatix's Logo](https://avatars.githubusercontent.com/u/13110161?v=4?s=400) |
+| 👀 I'm interested in programming, music creation, procedural modeling, game design, world creation, and plot development. ⭕ I’m currently with developing TTRPG project and collaborating in game-dev community. 💞️ I’m looking to collaborate on game development or engaging modding projects. ✔️ My game engine of choice is the Unreal Engine. 📫 I hold a master's degree from a university of technology. | ![iomatix's Logo](https://avatars.githubusercontent.com/u/13110161?v=4?s=400) |
 | -------------- | ----------------- |
 
 
