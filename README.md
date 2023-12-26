@@ -1,7 +1,8 @@
 # Welcome to my github! 🐉 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/iomatix)
 
-|  	|  	|  	|
-|---![iomatix's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iomatix&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)|---![iomatix's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iomatix&theme=tokyonight&hide_border=true)|---![iomatix's Stats](https://github-readme-stats.vercel.app/api?username=iomatix&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)|
+|![iomatix's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iomatix&theme=tokyonight&hide_border=true)|![iomatix's Stats](https://github-readme-stats.vercel.app/api?username=iomatix&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)|![iomatix's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iomatix&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)|
+
+
 
 
  👋 Hello there, I’m @iomatix
