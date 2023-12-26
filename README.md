@@ -15,9 +15,14 @@
 📫 I hold a master's degree from a university of technology.
 
 
+
+## Stats
+
 <img src="https://myreadme.vercel.app/api/embed/iomatix?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 
+
+## Trophies
 
 ![iomatix's Trophies](https://github-profile-trophy.vercel.app/?username=iomatix&theme=tokyonight)
 
