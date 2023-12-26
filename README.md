@@ -24,10 +24,11 @@
 
 <br>
 
-### Stats
-![iomatix's Stats](https://myreadme.vercel.app/api/embed/iomatix?panels=userstatistics,toprepositories,toplanguages,commitgraph)
+### Trophies
+![iomatix's Trophies](https://github-profile-trophy.vercel.app/?username=iomatix&theme=tokyonight)
+
 
 <br>
 
-### Trophies
-![iomatix's Trophies](https://github-profile-trophy.vercel.app/?username=iomatix&theme=tokyonight)
+### Stats
+![iomatix's Stats](https://myreadme.vercel.app/api/embed/iomatix?panels=userstatistics,toprepositories,toplanguages,commitgraph)
