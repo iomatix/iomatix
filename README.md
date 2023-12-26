@@ -9,7 +9,7 @@
 
 <table>
   <tr>
-    <td colspan="2"><h3>👋 Hello there, I’m @iomatix</h3></td>
+    <td colspan="2"><h3>👋 Hello there, I’m @iomatix</h3> <a href="https://ko-fi.com/X8X0SKMWO" target="_blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-Fi"> ☕︎</a></td>
   </tr>
   <tr>
     <td>
