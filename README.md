@@ -16,14 +16,14 @@
 
 
 
-## Stats
+![Logo](https://avatars.githubusercontent.com/u/13110161?v=4?s=400)
 
+### Stats
 <img src="https://myreadme.vercel.app/api/embed/iomatix?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 
 
-## Trophies
-
+### Trophies
 ![iomatix's Trophies](https://github-profile-trophy.vercel.app/?username=iomatix&theme=tokyonight)
 
 
