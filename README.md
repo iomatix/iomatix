@@ -20,7 +20,8 @@
 <br>
 
 ### Stats
-<img src="https://myreadme.vercel.app/api/embed/iomatix?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" width="20%"/>
+![iomatix's Stats]([https://github-profile-trophy.vercel.app/?username=iomatix&theme=tokyonight](https://myreadme.vercel.app/api/embed/iomatix?panels=userstatistics,toprepositories,toplanguages,commitgraph))
+
 
 <br>
 
