@@ -1,6 +1,5 @@
 # Welcome to my github! 🐉 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/iomatix)
 
-<img src="https://myreadme.vercel.app/api/embed/iomatix?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
  👋 Hello there, I’m @iomatix
  
@@ -13,6 +12,8 @@
  ✔️ My game engine of choice is the Unreal Engine.
  
  📫 I hold a master's degree from a university of technology.
+
+<img src="https://myreadme.vercel.app/api/embed/iomatix?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 ![iomatix's Trophies](https://github-profile-trophy.vercel.app/?username=iomatix&theme=tokyonight)
 
