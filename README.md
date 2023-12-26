@@ -4,8 +4,9 @@
     <a href="https://www.linkedin.com/in/wypchlak-mateusz/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
     <img src="https://komarev.com/ghpvc/?username=iomatix&label=Profile%20views&color=0e75b6&style=flat" alt="iomatix" />
 </div>
-
+<div align="right">
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/iomatix)
+</div>
 
 <table>
   <tr>
