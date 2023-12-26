@@ -1,6 +1,6 @@
 
 
-# Welcome to my Coding Lair [![Ko-Fi](https://storage.ko-fi.com/cdn/brandasset/kofi_s_tag_dark.png?_gl=1*deqez8*_ga*MjU2NjIwNDk4LjE3MDE3MTk0MzI.*_ga_M13FZ7VQ2C*MTcwMzU5MTk4NC4xMi4xLjE3MDM1OTI3MTMuMjUuMC4w)(https://ko-fi.com/iomatix)❗ 🐉
+# Welcome to my Coding Lair ![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X0SKMWO)❗ 🐉
 ![Profile Views](https://komarev.com/ghpvc/?username=iomatix&label=Profile%20views&color=0e75b6&style=flat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wypchlak-mateusz/)
 [![DEV.to](https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white)](https://dev.to/iomatix)
