@@ -7,12 +7,12 @@
 | 👀 I'm interested in programming, music creation, procedural modeling, game design, world creation, and plot development.<br>⭕ I’m currently with developing TTRPG project and collaborating in game-dev community.<br>💞️ I’m looking to collaborate on game development or engaging modding projects.<br>✔️ My game engine of choice is the Unreal Engine.<br>📫 I hold a master's degree from a university of technology. | ![iomatix's Logo](https://avatars.githubusercontent.com/u/13110161?v=4?s=400) |
 
 
-\
+<br>
 ### Stats
 <img src="https://myreadme.vercel.app/api/embed/iomatix?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 
-\
+<br>
 ### Trophies
 ![iomatix's Trophies](https://github-profile-trophy.vercel.app/?username=iomatix&theme=tokyonight)
 
