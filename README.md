@@ -15,8 +15,9 @@
 📫 I hold a master's degree from a university of technology.
 
 
-
-![Logo](https://avatars.githubusercontent.com/u/13110161?v=4?s=400)
+<p align="left" width="100%">
+    <img width="70%" src="https://avatars.githubusercontent.com/u/13110161?v=4?s=400"> 
+</p>
 
 ### Stats
 <img src="https://myreadme.vercel.app/api/embed/iomatix?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
