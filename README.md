@@ -16,7 +16,7 @@
 
 
 
-![Logo](https://avatars.githubusercontent.com/u/13110161?v=4?s=400) {text-align: center;}
+![Logo](https://avatars.githubusercontent.com/u/13110161?v=4?s=400)
 
 ### Stats
 <img src="https://myreadme.vercel.app/api/embed/iomatix?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
