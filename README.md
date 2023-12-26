@@ -1,6 +1,6 @@
 
 
-# 🐉 Welcome to my github! [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/iomatix)
+# Welcome to my github! 🐉
 <div align="right">
     <a href="https://dev.to/iomatix" target="_blank"> <img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"> </a>
     <a href="https://www.linkedin.com/in/wypchlak-mateusz/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
@@ -8,7 +8,8 @@
 </div>
 <table>
   <tr>
-    <td colspan="2"><h3>👋 Hello there, I’m @iomatix</h3></td>
+    <td colspan="1"><h3>👋 Hello there, I’m @iomatix</h3></td>
+    <td>[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/iomatix)</td>
   </tr>
   <tr>
     <td>
