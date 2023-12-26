@@ -27,6 +27,10 @@
 ### Stats
 ![iomatix's Stats](https://myreadme.vercel.app/api/embed/iomatix?panels=userstatistics,toprepositories,toplanguages,commitgraph)
 
+<br>
+
+### Recent Activity
+![Recent Activity](https://github-readme-stats.vercel.app/api/activity?username=iomatix)
 
 <br>
 
