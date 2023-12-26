@@ -6,10 +6,8 @@
 [![DEV.to](https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white)](https://dev.to/iomatix)
 
 
+[![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/iomatix)
 
-<div align="left">
-  [![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/iomatix)
-</div>
 
 <table>
   <tr>
