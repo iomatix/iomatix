@@ -1,6 +1,6 @@
 # Welcome to my github! 🐉 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/iomatix)
 
-https://github-profile-trophy.vercel.app/?username=iomatix&theme=tokyonight
+![iomatix's Trophies](https://github-profile-trophy.vercel.app/?username=iomatix&theme=tokyonight)
 
  👋 Hello there, I’m @iomatix
  
