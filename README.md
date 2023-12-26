@@ -20,7 +20,7 @@
 <br>
 
 ### Stats
-![iomatix's Stats]([https://github-profile-trophy.vercel.app/?username=iomatix&theme=tokyonight](https://myreadme.vercel.app/api/embed/iomatix?panels=userstatistics,toprepositories,toplanguages,commitgraph))
+![iomatix's Stats](https://myreadme.vercel.app/api/embed/iomatix?panels=userstatistics,toprepositories,toplanguages,commitgraph)
 
 
 <br>
