@@ -7,14 +7,13 @@
 
 
 
-
-
-
+<div align="left">
+  [![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/iomatix)
+</div>
 
 <table>
   <tr>
-    <td colspan="1"><h3>👋 Hello there, I’m @iomatix</h3></td>
-    <td><div align="right"><a href="https://ko-fi.com/iomatix" target="_blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-Fi"></a></div></td>
+    <td colspan="2"><h3>👋 Hello there, I’m @iomatix</h3></td>
   </tr>
   <tr>
     <td>
