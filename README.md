@@ -13,10 +13,10 @@
   <tr>
     <td>
       👀 I'm interested in programming, music creation, procedural modeling, game design, world creation, and plot development.<br>
-      ⭕ I’m currently developing a Riverpod Application, TTRPG project and collaborating in the game-dev community.<br>
+      ⭕ I’m currently developing a game prototype on Unreal Engine 5, working on a TTRPG project, and collaborating in the game-dev community.<br>
       💞️ I’m looking to collaborate on game development or engaging modding projects.<br>
       ✔️ My game engine of choice is the Unreal Engine.<br>
-      📫 I hold a master's degree from a university of technology.
+      📫 I hold a master's degree from the University of Technology.
     </td>
     <td><img src="https://avatars.githubusercontent.com/u/13110161?v=4?s=400" alt="iomatix's Logo"></td>
   </tr>
