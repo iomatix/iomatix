@@ -3,6 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wypchlak-mateusz/)
 [![DEV.to](https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white)](https://dev.to/iomatix)
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=iomatix&theme=onedark&data=followers,repositories,stars,commits)](https://github.com/iomatix)
 
 <table>
   <tr>
@@ -22,7 +23,7 @@
 
 <be>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=iomatix&theme=onedark&data=followers,repositories,stars,commits)](https://github.com/iomatix)
+
 
 ### Trophies
 [![iomatix's Trophies](https://github-profile-trophy.vercel.app/?username=iomatix&theme=onedark)](https://github.com/iomatix)
