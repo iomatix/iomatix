@@ -26,5 +26,8 @@
 ### Trophies
 [![iomatix's Trophies](https://github-profile-trophy.vercel.app/?username=iomatix&theme=onedark)](https://github.com/iomatix)
 
+
 ### Stats
-![iomatix's Stats](https://myreadme.vercel.app/api/embed/iomatix?panels=userstatistics,toprepositories,toplanguages,commitgraph)
+![iomatix's Stats](https://github-readme-stats.vercel.app/api?username=iomatix&theme=onedark&show_icons=true&hide_border=true&count_private=true)
+![iomatix's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iomatix&theme=onedark&hide_border=true)
+![iomatix's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iomatix&theme=onedark&show_icons=true&hide_border=true&layout=compact)
