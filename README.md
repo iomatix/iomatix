@@ -25,7 +25,7 @@
 <br>
 
 ### Trophies
-[![iomatix's Trophies](https://github-profile-trophy.vercel.app/?username=iomatix&theme=tokyonight)](https://github.com/iomatix/github-profile-trophy)
+[![iomatix's Trophies](https://github-profile-trophy.vercel.app/?username=iomatix&theme=monokai)](https://github.com/iomatix/github-profile-trophy)
 
 ### Stats
 ![iomatix's Stats](https://myreadme.vercel.app/api/embed/iomatix?panels=userstatistics,toprepositories,toplanguages,commitgraph)
