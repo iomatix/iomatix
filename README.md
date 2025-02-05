@@ -3,17 +3,6 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X0SKMWO)
 ![Profile Views](https://komarev.com/ghpvc/?username=iomatix&label=Profile%20views&color=0e75b6&style=flat)
 
---- 
-
-### 📱 Social Media
-
-<a href="https://www.linkedin.com/in/wypchlak-mateusz/">
-  <img src="https://aegis-icons.github.io/icons/primary/Linkedin.svg" width="36" height="36" style="margin-right: 8px;" alt="LinkedIn">
-</a>
-<a href="https://next.nexusmods.com/profile/iomatix/mods">
-  <img src="https://aegis-icons.github.io/icons/primary/Nexus%20Mods.svg" width="36" height="36" style="margin-right: 8px;" alt="Nexus Mods">
-</a>
-
 ---
 
 ### 👋 Hello there, I’m @iomatix
@@ -32,6 +21,16 @@
 
 ![iomatix's Logo](https://avatars.githubusercontent.com/u/13110161?v=4?s=400)
 
+--- 
+
+### 📱 Social Media
+
+<a href="https://www.linkedin.com/in/wypchlak-mateusz/">
+  <img src="https://aegis-icons.github.io/icons/primary/Linkedin.svg" width="36" height="36" style="margin-right: 8px;" alt="LinkedIn">
+</a>
+<a href="https://next.nexusmods.com/profile/iomatix/mods">
+  <img src="https://aegis-icons.github.io/icons/primary/Nexus%20Mods.svg" width="36" height="36" style="margin-right: 8px;" alt="Nexus Mods">
+</a>
 
 
 ### Trophies
