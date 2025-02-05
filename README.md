@@ -5,6 +5,8 @@
 
 --- 
 
+### Social Media
+
 <a href="https://www.linkedin.com/in/wypchlak-mateusz/">
   <img src="https://aegis-icons.github.io/icons/primary/Linkedin.svg" width="48" height="48" style="margin-right: 8px;" alt="LinkedIn">
 </a>
