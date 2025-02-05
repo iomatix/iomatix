@@ -7,15 +7,19 @@
 
 <table>
   <tr>
-    <td colspan="2"><h3>👋 Hello there, I’m @iomatix </h3> </td>
+    <td colspan="2"><h3>👋 Hello there, I’m @iomatix </h3></td>
   </tr>
   <tr>
     <td>
-      👀 I'm interested in programming, music creation, procedural modeling, game design, world creation, and plot development.<br>
-      ⭕ I’m currently working on the game project on Unreal Engine 5, working on a TTRPG project, and collaborating in the game-dev community.<br>
-      💞️ I’m looking to collaborate on game development or engaging modding projects.<br>
-      ✔️ My game engine of choice is the Unreal Engine.<br>
-      📫 I hold a master's degree from the University of Technology.
+      👀 I'm interested in <strong>quantum machine learning (QML)</strong>, hybrid quantum-classical algorithms, programming, procedural modeling, and game design.<br>
+      ⭕ I’m currently working on:
+      <ul>
+        <li>A <strong>TTRPG project</strong> (tabletop role-playing game).</li>
+        <li>Exploring <strong>hybrid quantum algorithms</strong> and learning the fundamentals of <strong>quantum physics</strong> and <strong>quantum information</strong>.</li>
+      </ul>
+      💞 I’m looking to collaborate on <strong>scientific research</strong>, <strong>game development</strong>, and <strong>experimental technology creation</strong>.<br>
+      ✅ I am currently focusing on refreshing my knowledge in <strong>mathematics</strong> and learning <strong>quantum physics</strong> and <strong>quantum computer science fundamentals</strong>.<br>
+      📢 I hold a master's degree in Computer Science from the University of Technology.<br>
     </td>
     <td><img src="https://avatars.githubusercontent.com/u/13110161?v=4?s=400" alt="iomatix's Logo"></td>
   </tr>
