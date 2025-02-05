@@ -13,7 +13,7 @@
 - A **TTRPG project** (tabletop role-playing game).
 - Exploring **hybrid quantum algorithms** and learning the fundamentals of **quantum physics** and **quantum information**.
 
-💞 I’m looking to collaborate on **game development**, **scientific research**, and **experimental technology creation**.
+💞 I’m looking to collaborate on **scientific research**, **game development**, and **experimental technology creation**.
 
 ✅ I am currently focusing on refreshing my knowledge in **mathematics** and learning **quantum physics** and **quantum information fundamentals**.
 
