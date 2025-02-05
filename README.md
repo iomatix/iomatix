@@ -1,30 +1,27 @@
-# Welcome to my Coding Lair❗🐉  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X0SKMWO) ☕︎
+# 🌟 Welcome to my Coding Lair❗️🐉
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X0SKMWO)
 ![Profile Views](https://komarev.com/ghpvc/?username=iomatix&label=Profile%20views&color=0e75b6&style=flat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wypchlak-mateusz/)
+[![LinkedIn](https://aegis-icons.github.io/icons/primary/Linkedin.svg)](https://www.linkedin.com/in/wypchlak-mateusz/) 
+[![NexusMods](https://aegis-icons.github.io/icons/primary/Nexus%20Mods.svg)](https://next.nexusmods.com/profile/iomatix/mods)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=iomatix&theme=onedark&data=followers,repositories,stars,commits)](https://github.com/iomatix)
+---
 
-<table>
-  <tr>
-    <td colspan="2"><h3>👋 Hello there, I’m @iomatix </h3></td>
-  </tr>
-  <tr>
-    <td>
-      👀 I'm interested in <strong>quantum machine learning (QML)</strong>, hybrid quantum-classical algorithms, programming, procedural modeling, and game design.<br>
-      ⭕ I’m currently working on:
-      <ul>
-        <li>A <strong>TTRPG project</strong> (tabletop role-playing game).</li>
-        <li>Exploring <strong>hybrid quantum algorithms</strong> and learning the fundamentals of <strong>quantum physics</strong> and <strong>quantum information</strong>.</li>
-      </ul>
-      💞 I’m looking to collaborate on <strong>scientific research</strong>, <strong>game development</strong>, and <strong>experimental technology creation</strong>.<br>
-      ✅ I am currently focusing on refreshing my knowledge in <strong>mathematics</strong> and learning <strong>quantum physics</strong> and <strong>quantum computer science fundamentals</strong>.<br>
-      📢 I hold a master's degree in Computer Science from the University of Technology.<br>
-    </td>
-    <td><img src="https://avatars.githubusercontent.com/u/13110161?v=4?s=400" alt="iomatix's Logo"></td>
-  </tr>
-</table>
+### 👋 Hello there, I’m @iomatix
 
-<be>
+👀 I'm interested in **quantum machine learning (QML)**, hybrid quantum-classical algorithms, programming, procedural modeling, and game design.
+
+⭕ I’m currently working on:
+- A **TTRPG project** (tabletop role-playing game).
+- Exploring **hybrid quantum algorithms** and learning the fundamentals of **quantum physics** and **quantum information**.
+
+💞 I’m looking to collaborate on **game development**, **scientific research**, and **experimental technology creation**.
+
+✅ I am currently focusing on refreshing my knowledge in **mathematics** and learning **quantum physics** and **quantum information fundamentals**.
+
+📢 I hold a master's degree in Computer Science from the University of Technology.
+
+![iomatix's Logo](https://avatars.githubusercontent.com/u/13110161?v=4?s=400)
 
 
 
