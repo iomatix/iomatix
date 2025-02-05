@@ -1,9 +1,14 @@
 # 🌟 Welcome to my Coding Lair❗️🐉
 
+<a href="https://www.linkedin.com/in/wypchlak-mateusz/">
+  <img src="https://aegis-icons.github.io/icons/primary/Linkedin.svg" width="48" height="48" alt="LinkedIn">
+</a>
+<a href="https://next.nexusmods.com/profile/iomatix/mods">
+  <img src="https://aegis-icons.github.io/icons/primary/Nexus%20Mods.svg" width="48" height="48" alt="Nexus Mods">
+</a>
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X0SKMWO)
 ![Profile Views](https://komarev.com/ghpvc/?username=iomatix&label=Profile%20views&color=0e75b6&style=flat)
-[![LinkedIn](https://aegis-icons.github.io/icons/primary/Linkedin.svg)](https://www.linkedin.com/in/wypchlak-mateusz/) 
-[![NexusMods](https://aegis-icons.github.io/icons/primary/Nexus%20Mods.svg)](https://next.nexusmods.com/profile/iomatix/mods)
 
 ---
 
