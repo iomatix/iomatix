@@ -29,9 +29,6 @@
 
 ### 📱 Social Media  
 
-<a href="[https://buymeacoffee.com/iomatix](https://buymeacoffee.com/iomatix)">
-  <img src="https://aegis-icons.github.io/icons/primary/Ko-fi.svg" width="42" height="36" style="margin-right: 8px;" alt="Ko-fi">
-</a>
 <a href="https://www.linkedin.com/in/wypchlak-mateusz/">
   <img src="https://aegis-icons.github.io/icons/primary/Linkedin.svg" width="42" height="36" style="margin-right: 8px;" alt="LinkedIn">
 </a>
