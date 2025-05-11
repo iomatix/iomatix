@@ -11,6 +11,7 @@
 
 ⭕ I’m currently working on:
 - A **TTRPG project** (tabletop role-playing game).
+- Engaging in Game Dev and modders community.
 - Exploring **hybrid quantum algorithms** and learning the fundamentals of **quantum physics** and **quantum information**.
 - Side software development and other hobby-related projects.
 - Engaging in the game-dev community by working on modding and software projects.
