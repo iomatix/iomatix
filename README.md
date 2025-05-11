@@ -1,6 +1,5 @@
 # 🌟 Welcome to my Coding Lair❗️🐉  
 
-[![Support Me](https://community-assets.home-assistant.io/original/3X/6/f/6f894ce95d116b1dc5a7b9026d0cfd3123fa47e1.png)](https://buymeacoffee.com/iomatix)  
 ![Profile Views](https://komarev.com/ghpvc/?username=iomatix&label=Profile%20views&color=0e75b6&style=flat)  
 
 ---
@@ -26,6 +25,9 @@
 ![iomatix's Logo](https://avatars.githubusercontent.com/u/13110161?v=4?s=400)  
 
 ---  
+
+[![Support Me](https://community-assets.home-assistant.io/original/3X/6/f/6f894ce95d116b1dc5a7b9026d0cfd3123fa47e1.png)](https://buymeacoffee.com/iomatix)  
+
 
 ### 📱 Social Media  
 
