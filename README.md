@@ -19,7 +19,7 @@
 
 💞 I’m looking to collaborate on **scientific research**, **game development**, and **experimental technology creation**.  
 
-✅ I am currently focusing on refreshing my knowledge in **mathematics** and learning **quantum physics** and **quantum information fundamentals**.  
+✅ I am currently focusing on my career, refreshing my knowledge in **mathematics**, and deepening my understanding of **quantum physics** and **quantum information fundamentals**.
 
 📢 I hold a master's degree in Computer Science from the University of Technology.  
 
