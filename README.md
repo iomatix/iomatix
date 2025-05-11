@@ -1,6 +1,6 @@
 # 🌟 Welcome to my Coding Lair❗️🐉  
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X0SKMWO)  
+[![Support Me](https://community-assets.home-assistant.io/original/3X/6/f/6f894ce95d116b1dc5a7b9026d0cfd3123fa47e1.png)](https://buymeacoffee.com/iomatix)  
 ![Profile Views](https://komarev.com/ghpvc/?username=iomatix&label=Profile%20views&color=0e75b6&style=flat)  
 
 ---
@@ -29,7 +29,7 @@
 
 ### 📱 Social Media  
 
-<a href="https://ko-fi.com/X8X0SKMWO">
+<a href="[https://buymeacoffee.com/iomatix](https://buymeacoffee.com/iomatix)">
   <img src="https://aegis-icons.github.io/icons/primary/Ko-fi.svg" width="42" height="36" style="margin-right: 8px;" alt="Ko-fi">
 </a>
 <a href="https://www.linkedin.com/in/wypchlak-mateusz/">
