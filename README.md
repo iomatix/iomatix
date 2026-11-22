@@ -46,6 +46,5 @@ M.Sc. Computer Science Engineer (EUR-ACE® accredited) focused on **enterprise s
 ## 🌐 Links & Community
 
 - **LinkedIn:** [linkedin.com/in/wypchlak-mateusz](https://www.linkedin.com/in/wypchlak-mateusz)
-- **Dev.to:** [dev.to/iomatix](https://dev.to/iomatix)
 - **Nexus Mods:** [next.nexusmods.com/profile/iomatix/mods](https://next.nexusmods.com/profile/iomatix/mods)
 - **Support Open-Source Work:** [Buy Me a Coffee](https://buymeacoffee.com/iomatix) • [Ko-fi](https://ko-fi.com/iomatix)
